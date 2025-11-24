@@ -7,4 +7,8 @@ assignees: ''
 
 ---
 
+As a: Role
 
+I can: Capability
+
+So that: Received Benefit
